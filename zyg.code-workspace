@@ -1,0 +1,24 @@
+{
+  "folders": [
+    {
+      "path": "ai",
+      "name": "ai"
+    },
+    {
+      "path": "backend",
+      "name": "backend"
+    },
+    {
+      "path": "frontend",
+      "name": "frontend"
+    },
+    {
+      "path": ".",
+      "name": "zyg"
+    },
+    {
+      "path": "templates",
+      "name": "templates"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true,
+    "**/Thumbs.db": true,
+    "**/node_modules": true,
+    "**/dist": true,
+    "**/.next": true,
+    "**/out": true,
+    "**/yarn.lock": true,
+    "**/package-lock.json": true,
+    "**/coverage": true,
+    "deprecated": true,
+    "ai": false,
+    "frontend": false,
+    "widget": false,
+    "backend": false
+  },
+  "cSpell.words": [
+    "appspec",
+    "XSRV"
+  ]
+}
